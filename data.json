@@ -1962,7 +1962,7 @@
     "username_claimed": "yeahkenny",
     "username_unclaimed": "noonewouldeverusethis77777"
   },
-  "kwork": {
+  "kwork":  {
     "errorType": "status_code",
     "url": "https://kwork.ru/user/{}",
     "urlMain": "https://www.kwork.ru/",
