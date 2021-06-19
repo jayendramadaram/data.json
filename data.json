@@ -490,15 +490,6 @@
     "username_claimed": "hackerman",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "Facenama": {
-    "errorType": "response_url",
-    "errorUrl": "https://facenama.com/404.html",
-    "regexCheck": "^[-a-zA-Z0-9_]+$",
-    "url": "https://facenama.com/{}",
-    "urlMain": "https://facenama.com/",
-    "username_claimed": "blue",
-    "username_unclaimed": "noonewouldeverusethis77"
-  },
   "Fandom": {
     "errorType": "status_code",
     "url": "https://www.fandom.com/u/{}",
