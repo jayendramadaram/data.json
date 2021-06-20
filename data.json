@@ -60,7 +60,7 @@
   },
   "AllTrails": {
     "errorMsg": "User could not be found.",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://www.alltrails.com/members/{}",
     "urlMain": "https://www.alltrails.com/",
     "username_claimed": "blue",
