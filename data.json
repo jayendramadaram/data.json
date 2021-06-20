@@ -944,7 +944,7 @@
   },
   "NameMC (Minecraft.net skins)": {
     "errorMsg": "Profiles: 0 results",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://namemc.com/profile/{}",
     "urlMain": "https://namemc.com/",
     "username_claimed": "blue",
@@ -1028,7 +1028,7 @@
   },
   "OurDJTalk": {
     "errorMsg": "The specified member cannot be found",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://ourdjtalk.com/members?username={}",
     "urlMain": "https://ourdjtalk.com/",
     "username_claimed": "steve",
@@ -1160,7 +1160,7 @@
   },
   "Quizlet": {
     "errorMsg": "Page Unavailable",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://quizlet.com/{}",
     "urlMain": "https://quizlet.com",
     "username_claimed": "blue",
@@ -1414,7 +1414,7 @@
   },
   "Steamid": {
     "errorMsg": "<div class=\"alert alert-warning\">Profile not found</div>",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://steamid.uk/profile/{}",
     "urlMain": "https://steamid.uk/",
     "username_claimed": "blue",
@@ -1789,16 +1789,9 @@
   },
   "babyRU": {
     "errorMsg": "\u0423\u043f\u0441, \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430, \u043a\u043e\u0442\u043e\u0440\u0443\u044e \u0432\u044b \u0438\u0441\u043a\u0430\u043b\u0438, \u043d\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://www.baby.ru/u/{}/",
     "urlMain": "https://www.baby.ru/",
-    "username_claimed": "blue",
-    "username_unclaimed": "noonewouldeverusethis"
-  },
-  "babyblogRU": {
-    "errorType": "status_code",
-    "url": "https://www.babyblog.ru/user/{}",
-    "urlMain": "https://www.babyblog.ru/",
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis"
   },
