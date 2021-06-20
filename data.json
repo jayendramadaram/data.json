@@ -583,7 +583,7 @@
   },
   "Giphy": {
     "errorType": "status_code",
-    "url": "https://giphy.com/{}",
+    "url": "https://giphy.com/channel/{}",
     "urlMain": "https://giphy.com/",
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
@@ -1265,7 +1265,7 @@
   },
   "Scribd": {
     "errorMsg": "Page not found",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://www.scribd.com/{}",
     "urlMain": "https://www.scribd.com/",
     "username_claimed": "blue",
@@ -1423,7 +1423,7 @@
   "Strava": {
     "errorMsg": "Strava | Run and Cycling Tracking on the Social Network for Athletes",
     "errorType": "message",
-    "url": "https://www.strava.com/athletes/{}",
+    "url": "https://www.strava.com/athletes/search?utf8=%E2%9C%93&text={}",
     "urlMain": "https://www.strava.com/",
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
